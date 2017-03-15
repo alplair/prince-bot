@@ -7,6 +7,7 @@
     "Systematic overthrow of the underclass.",
     "Always cry for love, never cry for pain.",
     "Hollywood conjures images of the past.",
+    "The more you love me sugar, the more it makes me mad.:,
     "Sometimes it snows in April. Sometimes I feel so bad. Sometimes I wish life was never ending... and all good things, they say, never last.",
     "You need another lover like you need a hole in your head.",
     "Love will conquer if you just believe (oh, yeah).",
