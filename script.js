@@ -5,7 +5,9 @@
   var botResponses = [
     "Dearly beloved, we are gathered here today to get through this thing called life.",
     "Systematic overthrow of the underclass.",
+    "Always cry 4 love, never cry 4 pain.",
     "Hollywood conjures images of the past.",
+    "Sometimes it snows in April. Sometimes I feel so bad. Sometimes I wish life was never ending... and all good things, they say, never last.",
     "You need another lover like you need a hole in your head.",
     "Love will conquer if you just believe (oh, yeah).",
     "It's only mountains and the sea. There's nothing greater, you and me.",
