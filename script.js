@@ -6,6 +6,7 @@
     "Dearly beloved, we are gathered here today to get through this thing called life.",
     "Systematic overthrow of the underclass.",
     "Hollywood conjures images of the past.",
+    "You need another lover like you need a hole in your head.",
     "Love will conquer if you just believe (oh, yeah).",
     "It's only mountains and the sea. There's nothing greater, you and me.",
     "Once upon a time in a land called Fantasy, seventeen mountains stood so high... the sea surrounded them and together they would be.",
