@@ -5,6 +5,8 @@
   var botResponses = [
     "Dearly beloved, we are gathered here today to get through this thing called life.",
     "Systematic overthrow of the underclass.",
+    "It's gonna be a beautiful night. You got your world together. Everything's looking alright.",
+    "Little girl at the party, maybe she'd like to dance. Ring around the rosie, pocket full of chance.", 
     "Always cry for love, never cry for pain.",
     "Hollywood conjures images of the past.",
     "The more you love me sugar, the more it makes me mad.",
